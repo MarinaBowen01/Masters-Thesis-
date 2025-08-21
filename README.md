@@ -6,7 +6,7 @@ R scripts for modeling species distribution using VIF-filtered environmental var
 ## Files
 - `vif_analysis.R` - Variable selection using VIF thresholds and Spearman rank correlation to ensure variables highly correlated to abundance were prioritised.
 - `niche_analysis.R` - OMI analysis and plotting
-- `species_models.R` - Hurdle models for abundance prediction
+- `Hurdle_models_v GLM.R` - Hurdle models for abundance prediction
 
 ## Requirements
 - R 4.0+
