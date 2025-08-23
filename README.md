@@ -7,6 +7,8 @@ R scripts for modeling species distribution using VIF-filtered environmental var
 - `vif_analysis.R` - Variable selection using VIF thresholds and Spearman rank correlation to ensure variables highly correlated to abundance were prioritised.
 - `Resdiual_plpts.R` - Used to asses model performance
 - `Hurdle_models_v GLM.R` - Hurdle models for presence and abundance predictions followed by OMI niche analysis and partial response plots
+- `Hurdle_Current_Predictions.R` - Prediction hurdle models for presence and abundance predictions 
+
 
 ## Requirements
 - R 4.0+
